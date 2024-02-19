@@ -57,7 +57,8 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 ![Variables](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/eefea531-f6a7-4c32-ac5d-2e421efaf36a)
 
 ## Relación variables Categóricas - Categóricas
-![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/c944f4e4-1df7-4a36-ba1f-7ff6d0863928)
+![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/8c66190f-122a-4890-9dbb-073e2d398229)
+
 
 
 
