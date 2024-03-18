@@ -59,6 +59,13 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 ## Relación variables Categóricas - Categóricas
 ![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/8c66190f-122a-4890-9dbb-073e2d398229)
 
+## Modelos 
+|Modelo               |   Paramétros          |Resultado              |
+|---------------------------------------------------------------------|
+|Regresión logistica  |tasa aprendizaje = 3   |Precisión:       82.01%|
+|K-Vecinos cercanos   |vecinos = 10           |Precisión:       71.53%|
+|Ventana de Parzen    |H = 0.5 ||
+
 
 
 
