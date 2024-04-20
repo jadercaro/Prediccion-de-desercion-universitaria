@@ -59,13 +59,17 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 | Inflation rate                            | Tasa de inflación (%).                                                                                      |
 | GDP                                       | Producto Interno Bruto (GDP).                                                                              |
 
-### Relación variables Númericas - Númericas
+### Relación variables Númericas - Númericas (Correlación)
 
-![Untitled](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/15114373/786a5310-8c74-445b-85b5-7bf69a27c948)
+![Untitled](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/15114373/786a5310-8c74-445b-85b5-7bf69a27c948) 
+![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/62183760-b665-4f62-a398-545f04d9eca6)
+
+## Relación variables Categóricas - Categóricas (V-Cramer)
+![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/b3d0cb86-ed4a-4535-8c39-149b1184fdb7) 
 
 
-## Relación variables Categóricas - Categóricas
-![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/8c66190f-122a-4890-9dbb-073e2d398229)
+
+
 
 ## Conclusiones de Correlaciones
 
