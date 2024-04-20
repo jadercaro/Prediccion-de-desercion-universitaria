@@ -69,4 +69,27 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 
 
 
+## Conclusiones de Correlaciones
+
+| No. | Comparación                                            | Correlación | Target  | Resultado |
+|-----|--------------------------------------------------------|-------------|---------|-----------|
+| 1   | Credited 1 ➡ Enrolled 1 : Credited 2        | 0.77 : 0.94       | 0.029    | 🔴Eliminar🔴       |
+| 2   | Enrolled 1 ➡ Credited 1 : Approved 1 : Credited 2 : Enrolled 2             | 0.77 : 0.77 : 0.75 : 0.94 | 0.124    | 🔴Eliminar🔴       |
+| 3   | Evaluations 1 ➡ Evaluations 2          | 0.78        | 0.090   | 🔴Eliminar🔴       |
+| 4   | Approved 1 ➡ Approved 2 : Enrolled 1                 | 0.9 : 0.77         | 0.480    | 🟢Conservar🟢        |
+| 5   | Grade 1 ➡ Grade 2                      | 0.84        | 0.480    |   🔴Eliminar🔴         |
+| 6   | Credited 2 ➡ Credited 1 : Enrolled 1             | 0.94        | 0.033   | 🟢Conservar🟢          |
+| 7   | Enrolled 2 ➡ Enrolled 1                | 0.94        | 0.141    | 🟢Conservar🟢          |
+| 8   | Evaluations 2 ➡ Evaluations 1          | 0.78        | 0.154   | 🟢Conservar🟢          |
+| 9   | Approved 2 ➡ Approved 1 : Grade 2               | 0.9 : 0.76         | 0.569   | 🔴Eliminar🔴         |
+| 10  | Grade 2 ➡ Grade 1 : Approved 2                   | 0.84 : 0.76        | 0.571   | 🟢Conservar🟢       |
+| 11  | Daytime/evening attendance ➡ Course                    | 0.998       | 0.078   | 🔴Eliminar🔴         |
+| 12  | Course ➡ Daytime/evening attendance                    | 0.998       | 0.253   | 🟢Conservar🟢          |
+| 13  | Nationality ➡ International                            | 0.998       | 0.000   | 🔴Eliminar🔴         |
+| 14  | International ➡ Nationality                            | 0.998       | 0.000   | 🔴Eliminar🔴         |
+| 15  | Educational special needs                            | -      | 0.000   | 🔴Eliminar🔴         |
+
+
+
+
 
