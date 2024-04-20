@@ -9,7 +9,7 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 
 ### Variables
 
-- **Variable objetivo:** Estado del estudiante (desertor, graduado, matriculado)
+- **Variable objetivo:** Estado del estudiante (desertor y no-desertor)
 - **Variables predictoras:**
 ## **Descripción de las variables del conjunto de datos:**
 
