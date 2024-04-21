@@ -91,6 +91,12 @@ Este repositorio se enfoca en la exploración y comparación de distintos métod
 | 14  | International ➡ Nationality                            | 0.998       | 0.000   | Eliminar🔴         |
 | 15  | Educational special needs                            | -      | 0.000   | Eliminar🔴         |
 
+# Resultados del modelo final 
+
+![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/11ef0022-222c-42a0-af33-c114ce634ff0)
+
+![imagen](https://github.com/jadercaro/Prediccion-de-desercion-universitaria/assets/96452959/ad88dd0a-5b38-4020-aa9b-67d84bc488b6)
+
 
 
 
