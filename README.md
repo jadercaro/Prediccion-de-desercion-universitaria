@@ -1,7 +1,5 @@
 # Integrantes : 
  - Jhon Jader Caro Sanchez
- - Jagler David Velasquez Velasquez
- - Alejandro Arias Ortiz
  
 
 
